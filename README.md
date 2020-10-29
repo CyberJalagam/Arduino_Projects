@@ -5,13 +5,13 @@
 <a href="https://github.com/CyberJalagam/Arduino_Projects/network/members"><img src="https://img.shields.io/github/forks/CyberJalagam/Arduino_Projects" alt="Forks Badge"/></a>
 <a href="https://github.com/CyberJalagam/Arduino_Projects/pulls"><img src="https://img.shields.io/github/issues-pr/CyberJalagam/Arduino_Projects" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/CyberJalagam/Arduino_Projects/issues"><img src="https://img.shields.io/github/issues/CyberJalagam/Arduino_Projects" alt="Issues Badge"/></a>
-<a href="https://github.com/CyberJalagam/Arduino_Projects/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/elangosundar/awesome-README-templates?color=2b9348"></a>
+<a href="https://github.com/CyberJalagam/Arduino_Projects/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/CyberJalagam/Arduino_Projects?color=2b9348"></a>
 <a href="https://github.com/CyberJalagam/Arduino_Projects/blob/main/LICENSE"><img src="https://img.shields.io/github/license/CyberJalagam/Arduino_Projects?color=2b9348" alt="License Badge"/></a>
 </div>
 <br>
 <p align="center"><i>Loved the projectS? Please visit our <a href="https://rbinternationalnet.wixsite.com/rbintnet">Website</a></i></p>
 <br>
-This repo aims to give beginners `A CODE TO REFER`
+This repo aims to give beginners ```A CODE TO REFER```
 
 If you are intersted, will create a PR
 
