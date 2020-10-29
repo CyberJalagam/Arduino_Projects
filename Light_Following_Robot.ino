@@ -6,7 +6,7 @@
 
 
 void setup(){
-Serial.println("Initializing Automatic Streetlight");
+Serial.println("Initializing");
 delay(1000);
 //  
 pinMode(13, OUTPUT);               // 8 = Positive pin of LED
