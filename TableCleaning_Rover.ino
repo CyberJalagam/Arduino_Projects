@@ -1,3 +1,7 @@
+/*
+ * code to push things of its way
+ */
+
 #define trig 6           // 6 = trigger pin
 #define echo 7           // 7 = echo pin
 const int motorX1 = 2;   // 2 = in1
