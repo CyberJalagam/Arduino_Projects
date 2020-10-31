@@ -11,7 +11,7 @@
 <br>
 <p align="center"><i>Loved the projectS? Please visit our <a href="https://rbinternationalnet.wixsite.com/rbintnet">Website</a></i></p>
 <br>
-This repo aims to give beginners ```A CODE TO REFER```
+This repo aims to give beginners a code to refer
 
 If you are intersted, will create a PR
 
